@@ -136,7 +136,7 @@ nose==1.3.7
 notebook @ file:///tmp/build/80754af9/notebook_1601501575118/work
 numba @ file:///tmp/build/80754af9/numba_1600100669015/work
 numexpr==2.7.1
-numpy==1.19.2
+numpy==1.21.0
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 olefile==0.46
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
