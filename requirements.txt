@@ -92,7 +92,7 @@ itsdangerous==1.1.0
 jdcal==1.4.1
 jedi @ file:///tmp/build/80754af9/jedi_1592841866100/work
 jeepney @ file:///tmp/build/80754af9/jeepney_1605069705079/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jmespath==0.10.0
 joblib==1.0.0
