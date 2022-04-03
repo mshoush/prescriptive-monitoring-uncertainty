@@ -20,8 +20,12 @@ To reproduce the results, please run the following:
 
                                      conda create -n <environment-name> --file requirements.txt
 
-* Next, please execute the following notebook to run all experiments with default parameters. 
+* Next, execute the following notebook to run all experiments with default parameters. 
 
                                      run_exps.ipynb
                                      
-        
+                                                           
+
+* Then, collect results from the previous step after experimenting with other parameters mentioned in the paper on page nr 12, i.e., Table 2, and execute scripts in the plots folder to obtain results. 
+
+                                     run_exps.ipynb
