@@ -28,4 +28,4 @@ To reproduce the results, please run the following:
 
 * Then, collect results from the previous step after experimenting with other parameters mentioned in the paper on page nr 12, i.e., Table 2, and execute scripts in the plots folder to obtain results. 
 
-                                     run_exps.ipynb
+                                
