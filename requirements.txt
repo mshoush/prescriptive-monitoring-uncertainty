@@ -95,7 +95,7 @@ jeepney @ file:///tmp/build/80754af9/jeepney_1605069705079/work
 Jinja2==2.11.2
 jinja2-time==0.2.0
 jmespath==0.10.0
-joblib==1.0.0
+joblib==1.2.0
 json5==0.9.5
 jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
 jupyter==1.0.0
